@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "f45b7f22f6903d50",
+    "type": "split",
+    "children": [
+      {
+        "id": "868e2394f3f67f75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d095b5ec8848a32",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c6d1b576dc86299",
+    "type": "split",
+    "children": [
+      {
+        "id": "7353459180af3a80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e29ca95e54fcb2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a04adb021d27b19b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "63e160790eda2a53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ea002221cd7efc99",
+    "type": "split",
+    "children": [
+      {
+        "id": "0983f96cd6a0976b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d305ec6b97b1c0ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e2d6ca6a95a40755",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8514a875152ee52f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a52cfcf6cce1193a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1d095b5ec8848a32",
+  "lastOpenFiles": [
+    "notebook",
+    "Computer Language/Markdown/Markdown Home.md",
+    "Computer Language/Markdown/Markdown Others.md",
+    "Computer Language/Markdown/Markdown Intro.md",
+    "Untitled",
+    "Math",
+    "Computer Science",
+    "Computer Language/HTML/HTML Home.md",
+    "Computer Language/HTML/HTML Intro.md",
+    "Computer Language/Markup Language.md",
+    "Computer Language/Untitled",
+    "Computer Language/HTML",
+    "Computer Language",
+    "Markdown_Intro.md",
+    "Markdown.md",
+    "Markdown/Contents.md",
+    "Computer Language/Markdown",
+    "Untitled.canvas",
+    "Markdown-Startup.md",
+    "第一次測試.md",
+    "test 2.md",
+    "2024-12-15.md"
+  ]
+}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Language/Markdown/Markdown Intro.md",
+                "file": "Computer Language/Markdown/Markdown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markdown Intro"
+              "title": "Markdown"
             }
           }
         ]
@@ -150,6 +150,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -160,7 +161,7 @@
   },
   "active": "1d095b5ec8848a32",
   "lastOpenFiles": [
-    "Computer Language/Markdown/Markdown Home.md",
+    "Computer Language/Markdown/Markdown.md",
     "Computer Language/Markdown/Markdown Others.md",
     "Computer Language/Markdown/Markdown Intro.md",
     "notebook",

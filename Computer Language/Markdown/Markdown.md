@@ -1,4 +1,4 @@
-- [Intro](Markdown%20Intro.md)
-- [Others](Markdown%20Others.md)
+- [Intro](Intro/Intro.md)
+- [Others](Others/Others.md)
 
 #Markdown #MarkupLanguage 

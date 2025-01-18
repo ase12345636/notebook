@@ -11,10 +11,14 @@
             "id": "1d095b5ec8848a32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -155,8 +159,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1d095b5ec8848a32",
+  "active": "9e29ca95e54fcb2f",
   "lastOpenFiles": [
+    "Computer Language/Markdown/Others/連結中的空格.md",
+    "Untitled.md",
+    "Computer Language/Markdown/Intro/Intro.md",
+    "Computer Language/Markdown/Others/Others.md",
+    "Computer Language/Markdown/Others",
+    "Computer Language/Markdown/Markdown.md",
+    "Computer Language/Markdown/Intro",
+    "Computer Language/Markdown",
     "Computer Language/Markdown/Markdown Others.md",
     "Computer Language/Markdown/Markdown Home.md",
     "Computer Language/Markdown/Markdown Intro.md",
@@ -173,7 +185,6 @@
     "Markdown_Intro.md",
     "Markdown.md",
     "Markdown/Contents.md",
-    "Computer Language/Markdown",
     "Untitled.canvas",
     "Markdown-Startup.md",
     "第一次測試.md",

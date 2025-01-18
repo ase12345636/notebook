@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "868e2394f3f67f75",
+        "id": "4a5050ebe362abd9",
         "type": "tabs",
         "children": [
           {
-            "id": "1d095b5ec8848a32",
+            "id": "4443dfe01ea94aa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Markup Language/Markdown/Markdown.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Markdown"
             }
           }
         ]
@@ -159,33 +159,38 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9e29ca95e54fcb2f",
+  "active": "4443dfe01ea94aa8",
   "lastOpenFiles": [
+    "Programming  Language/C/C.md",
+    "Programming  Language/C/Syntax.md",
+    "Markup Language/Markdown/Syntax.md",
+    "Markup Language/Markdown/Markdown.md",
+    "Markup Language/Markdown/Basic Example.md",
+    "2025-01-18.md",
+    "Untitled.canvas",
+    "C.md",
+    "Programming  Language/C",
+    "Programming  Language",
+    "Markup Language/Markdown",
     "Computer Language/Markdown/Others/連結中的空格.md",
-    "Untitled.md",
     "Computer Language/Markdown/Intro/Intro.md",
     "Computer Language/Markdown/Others/Others.md",
     "Computer Language/Markdown/Others",
     "Computer Language/Markdown/Markdown.md",
     "Computer Language/Markdown/Intro",
-    "Computer Language/Markdown",
+    "Markup Language/Markdown",
     "Computer Language/Markdown/Markdown Others.md",
     "Computer Language/Markdown/Markdown Home.md",
     "Computer Language/Markdown/Markdown Intro.md",
     "notebook",
-    "Untitled",
     "Math",
     "Computer Science",
     "Computer Language/HTML/HTML Home.md",
     "Computer Language/HTML/HTML Intro.md",
     "Computer Language/Markup Language.md",
     "Computer Language/Untitled",
-    "Computer Language/HTML",
-    "Computer Language",
     "Markdown_Intro.md",
-    "Markdown.md",
     "Markdown/Contents.md",
-    "Untitled.canvas",
     "Markdown-Startup.md",
     "第一次測試.md",
     "test 2.md",

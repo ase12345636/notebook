@@ -37,7 +37,6 @@ Statement usually use lowercase letters of the alphabet.
 	3) $p$ is sufficient for $q$.
 	4) $p$ is a sufficient condition for $q$.
 	5) $p$ only if $q$.
-	
 	6) implicaton of $q$ by $p$.
 	7) $q$ whenever $p$.
 	8) $q$ is necessary for $p$.

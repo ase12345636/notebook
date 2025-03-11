@@ -1,4 +1,3 @@
-
 [Chapter 2 - Fundamentals of Logic](Fundamentals%20of%20Logic)
 
 ##### Reference

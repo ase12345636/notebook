@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "868e2394f3f67f75",
+        "id": "4a5050ebe362abd9",
         "type": "tabs",
         "children": [
           {
-            "id": "1d095b5ec8848a32",
+            "id": "254d94e6809ae18e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,34 +160,43 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1d095b5ec8848a32",
+  "active": "254d94e6809ae18e",
   "lastOpenFiles": [
-    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Fundamentals of Logic.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
+    "Table of Contents.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables.md",
-    "Computer Language/Markdown/Markdown Others.md",
+    "Untitled",
+    "Markup Language/Markdown/Markdown.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic",
     "Mathematics/Discrete and Combinatorial Mathematics",
     "Mathematics",
+    "Markup Language/Markdown/Basic Example.md",
+    "Markup Language/Markdown/Syntax.md",
+    "Programming  Language/C/C.md",
+    "Programming  Language/C/Syntax.md",
+    "2025-01-18.md",
+    "Untitled.canvas",
+    "C.md",
+    "Programming  Language/C",
+    "Programming  Language",
+    "Markup Language/Markdown",
+    "Computer Language/Markdown/Others/連結中的空格.md",
+    "Computer Language/Markdown/Intro/Intro.md",
+    "Computer Language/Markdown/Others/Others.md",
+    "Computer Language/Markdown/Others",
+    "Computer Language/Markdown/Markdown.md",
+    "Computer Language/Markdown/Intro",
+    "Markup Language/Markdown",
+    "Computer Language/Markdown/Markdown Others.md",
     "Computer Language/Markdown/Markdown Home.md",
     "Computer Language/Markdown/Markdown Intro.md",
-    "notebook",
-    "Untitled",
-    "Math",
-    "Computer Science",
     "Computer Language/HTML/HTML Home.md",
     "Computer Language/HTML/HTML Intro.md",
     "Computer Language/Markup Language.md",
-    "Computer Language/Untitled",
-    "Computer Language/HTML",
-    "Computer Language",
     "Markdown_Intro.md",
-    "Markdown.md",
     "Markdown/Contents.md",
-    "Untitled.canvas",
     "Markdown-Startup.md",
-    "第一次測試.md",
-    "test 2.md",
-    "2024-12-15.md"
+    "第一次測試.md"
   ]
 }

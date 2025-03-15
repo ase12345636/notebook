@@ -9,4 +9,4 @@ Statement usually use lowercase letters of the alphabet.
 
 **Primitive Statements**: a statement that cannot be broken down into a simpler form.
 
-#DiscreteAndCombinatorial #Mathematics #CS
+#DiscreteAndCombinatorial #Mathematics 

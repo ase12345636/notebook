@@ -2,4 +2,4 @@
 - [[Basic Connectives]]
 - 
 
-#DiscreteAndCombinatorial #Mathematics #CS
+#DiscreteAndCombinatorial #Mathematics 

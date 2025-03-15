@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables.md",
+                "file": "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Connectives and Truth Tables"
+              "title": "Basic Connectives"
             }
           }
         ]
@@ -162,28 +162,32 @@
   },
   "active": "f701c6b31d0408bd",
   "lastOpenFiles": [
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Statement.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Fundamentals of Logic.md",
+    "Natural Language/English/Vocabulary/A/abbreviate.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Statement.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Natural Language/English/English.md",
+    "Natural Language/English/Vocabulary/Vocabulary.md",
+    "Natural Language/English/Vocabulary/A/A.md",
+    "Natural Language/English/Grammar/Grammer.md",
     "Table of Contents.md",
+    "Natural Language/English/Vocabulary/A",
+    "Natural Language/English/Vocabulary",
+    "Untitled.md",
+    "Natural Language/English/Vocabulary",
+    "Natural Language/日本語/日本語.md",
     "Computer Language/High-level Programming Language/C/C.md",
     "Computer Language/Markup Language/Markdown/Markdown.md",
-    "Untitled",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables",
-    "Natural Language/日本語/日本語.md",
-    "Natural Language/English/English.md",
-    "Natural Language/English/Grammar/Grammer.md",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
     "Computer Language/High-level Programming Language/C",
     "Computer Language/Markup Language/Markdown",
     "Computer Language/Markup Language",
     "Computer Language/High-level Programming Language",
     "Computer Language",
     "Mathematics/Linear Algebra",
-    "Natural Language/日本語",
-    "Natural Language/English/Grammar",
     "Markup language/Markdown/Introduction.md",
     "Markup language/Markdown/Markdown.md",
     "Markup language/Markdown/Syntax/Syntax.md",
@@ -194,10 +198,6 @@
     "Markup Language/Markdown/Syntax.md",
     "Markup Language/Markdown/Markdown.md",
     "Markup Language/Markdown/Basic Example.md",
-    "Programming  Language/C/Syntax.md",
-    "Programming  Language/C/C.md",
-    "Computer Language/Markdown/Markdown Others.md",
-    "Computer Language/Markdown/Others/Others.md",
     "Untitled.canvas"
   ]
 }

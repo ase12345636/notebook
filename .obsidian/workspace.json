@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table of Contents.md",
-                "mode": "preview",
+                "file": "Computer Language/High-level Programming Language/C/C.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Table of Contents"
+              "title": "C"
             }
           }
         ]
@@ -162,15 +162,15 @@
   },
   "active": "b81dbda4415dce02",
   "lastOpenFiles": [
-    "Computer Language/High-level Programming Language/C/C.md",
-    "Computer Language/Markup Language/Markdown/Markdown.md",
-    "Mathematics/Linear Algebra/Linear Algebra.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Fundamentals of Logic.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables.md",
-    "Natural Language/English/Grammar/Grammer.md",
-    "Natural Language/English/English.md",
     "Natural Language/日本語/日本語.md",
+    "Natural Language/English/English.md",
+    "Natural Language/English/Grammar/Grammer.md",
+    "Computer Language/Markup Language/Markdown/Markdown.md",
+    "Computer Language/High-level Programming Language/C/C.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
     "Table of Contents.md",
     "Computer Language/High-level Programming Language/C",
     "Computer Language/Markup Language/Markdown",

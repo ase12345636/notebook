@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc67faa53b6139f4",
+        "id": "32e2a399eb7cc943",
         "type": "tabs",
         "children": [
           {
-            "id": "ee7603e33a9b9bd3",
+            "id": "b81dbda4415dce02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Table of Contents.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Table of Contents"
             }
           }
         ]
@@ -156,43 +160,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee7603e33a9b9bd3",
+  "active": "b81dbda4415dce02",
   "lastOpenFiles": [
+    "Computer Language/High-level Programming Language/C/C.md",
+    "Computer Language/Markup Language/Markdown/Markdown.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Fundamentals of Logic.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables.md",
+    "Natural Language/English/Grammar/Grammer.md",
+    "Natural Language/English/English.md",
+    "Natural Language/日本語/日本語.md",
+    "Table of Contents.md",
+    "Computer Language/High-level Programming Language/C",
+    "Computer Language/Markup Language/Markdown",
+    "Computer Language/Markup Language",
+    "Computer Language/High-level Programming Language",
+    "Computer Language",
+    "Mathematics/Linear Algebra",
+    "Natural Language/日本語",
+    "Natural Language/English/Grammar",
+    "Natural Language/English",
+    "Natural Language",
     "Markup language/Markdown/Introduction.md",
     "Markup language/Markdown/Markdown.md",
     "Markup language/Markdown/Syntax/Syntax.md",
-    "Table of Contents.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
-    "Markup language/Markdown/Syntax",
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Fundamentals of Logic.md",
-    "Markup language/Markdown",
-    "Markup language/Markdown/Syntax",
-    "Markup language/Markdown",
-    "Markup language",
     "Basic Connectives and $Truth Tables.md",
     "1 Basic Connectives and $Truth Tables.md",
     "1 Basic Connectives and $Truth Tables.,d.md",
     "Fundamentals of Logic/1 Basic Connectives and Truth Tables.md",
-    "Fundamentals of Logic",
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic",
-    "Mathematics/Discrete and Combinatorial Mathematics",
-    "Mathematics",
     "Markup Language/Markdown/Syntax.md",
     "Markup Language/Markdown/Markdown.md",
     "Markup Language/Markdown/Basic Example.md",
     "Programming  Language/C/Syntax.md",
     "Programming  Language/C/C.md",
-    "Programming  Language/C",
     "Computer Language/Markdown/Markdown Others.md",
     "Computer Language/Markdown/Others/Others.md",
     "Computer Language/Markdown/Others/連結中的空格.md",
     "Computer Language/Markdown/Intro/Intro.md",
-    "Computer Language/Markdown/Markdown.md",
-    "Computer Language/Markdown/Markdown Intro.md",
-    "Computer Language/HTML/HTML Home.md",
-    "Computer Language/HTML/HTML Intro.md",
-    "Computer Language/Markup Language.md",
     "Untitled.canvas"
   ]
 }

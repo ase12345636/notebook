@@ -42,4 +42,5 @@ Statement usually use lowercase letters of the alphabet.
 	8) $q$ is necessary for $p$.
 	9) $q$ is necessary condition for $p$.
 	10) $q$ if $p$
-	
+
+#DiscreteAndCombinatorial #Mathematics

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1d072bbe0ee0b0b4",
+        "id": "c1fe5a877acd3168",
         "type": "tabs",
         "children": [
           {
-            "id": "f701c6b31d0408bd",
+            "id": "a5fca53f2a93f7be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Connectives"
             }
           }
         ]
@@ -156,22 +160,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f701c6b31d0408bd",
+  "active": "a5fca53f2a93f7be",
   "lastOpenFiles": [
+    "Natural Language/English/Vocabulary/A/abbreviate.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Statement.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Fundamentals of Logic.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
     "Table of Contents.md",
+    "Natural Language/English/Vocabulary/A/A.md",
+    "Natural Language/English/Vocabulary/Vocabulary.md",
+    "Computer Language/High-level Programming Language/C/C.md",
     "Natural Language/日本語/日本語.md",
     "Natural Language/English/English.md",
     "Computer Language/Markup Language/Markdown/Markdown.md",
-    "Computer Language/High-level Programming Language/C/C.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
-    "Natural Language/English/Vocabulary/A/abbreviate.md",
-    "Natural Language/English/Vocabulary/A/A.md",
-    "Natural Language/English/Vocabulary/Vocabulary.md",
     "Natural Language/English/Grammar/Grammer.md",
     "Natural Language/English/Vocabulary/A",
     "Natural Language/English/Vocabulary",

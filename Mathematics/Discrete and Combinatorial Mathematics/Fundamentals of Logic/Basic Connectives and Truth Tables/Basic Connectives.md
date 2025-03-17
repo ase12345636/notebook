@@ -41,4 +41,4 @@
 		- $p \leftrightarrow q$: Terry is a boy if and only if Terry is a human.
 	- We sometimes [[abbreviate]] "$p$ if and only if $q$" as "$p$ iff $q$".
 
-#DiscreteAndCombinatorial #Mathematics 
+#DiscreteAndCombinatorial #Mathematics #CS 

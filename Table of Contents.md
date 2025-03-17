@@ -3,7 +3,7 @@
 - [[Linear Algebra]]
 ## Computer Language
 **High-level Programming Language**
-- [[C]]
+- [[Computer Language/High-level Programming Language/C/C]]
 
 **Markup Language**
 - [[Markdown]]

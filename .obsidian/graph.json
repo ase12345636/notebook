@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#Language  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -13,10 +13,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.576124567474048,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7514342322277662,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.7514342322277626,
+  "close": false
 }

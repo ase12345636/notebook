@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c1fe5a877acd3168",
+        "id": "dcf8c8ed1f42d58f",
         "type": "tabs",
         "children": [
           {
-            "id": "a5fca53f2a93f7be",
+            "id": "e23c1233eed23d09",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5fca53f2a93f7be",
+  "active": "e23c1233eed23d09",
   "lastOpenFiles": [
     "Contents.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Logical Equivalence-The Laws of Logic/Logical Equivalence-The Laws of Logic.md",

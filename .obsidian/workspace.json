@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Truth table.md",
+                "file": "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Truth table"
+              "title": "Basic Connectives"
             }
           }
         ]
@@ -160,10 +160,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6bf832fe9ce5c4fb",
+  "active": "9e29ca95e54fcb2f",
   "lastOpenFiles": [
-    "Computer Language/High-level Programming Language/C/C.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Truth table.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Statement.md",
+    "Computer Language/High-level Programming Language/C/C.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Fundamentals of Logic.md",
     "Table of Contents.md",
@@ -175,7 +176,6 @@
     "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
     "Natural Language/English/English.md",
     "Natural Language/日本語/日本語.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Statement.md",
     "Natural Language/English/Vocabulary/F/F.md",
     "Natural Language/English/Vocabulary/F/foregoing.md",
     "Computer Language/Markup Language/Markdown/Markdown.md",

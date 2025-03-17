@@ -11,10 +11,10 @@
             "id": "e23c1233eed23d09",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -158,21 +158,21 @@
   },
   "active": "e23c1233eed23d09",
   "lastOpenFiles": [
-    "Contents.md",
+    "Natural Language/English/Vocabulary/Vocabulary.md",
+    "Natural Language/English/English.md",
+    "Natural Language/English/Vocabulary/F/F.md",
+    "Natural Language/日本語/日本語.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Logical Equivalence-The Laws of Logic/Logical Equivalence-The Laws of Logic.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Fundamentals of Logic.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Truth table.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Statement.md",
+    "Contents.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Truth table.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives and Truth Tables.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
-    "Natural Language/日本語/日本語.md",
     "Others/阿彥の模擬考/2025.03.17.md",
-    "Natural Language/English/English.md",
     "Natural Language/English/Grammar/Grammar.md",
-    "Natural Language/English/Vocabulary/F/F.md",
-    "Natural Language/English/Vocabulary/Vocabulary.md",
     "Natural Language/English/Vocabulary/F/foregoing.md",
     "Natural Language/English/Vocabulary/C/compound.md",
     "Natural Language/English/Vocabulary/C/C.md",

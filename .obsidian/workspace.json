@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "627e91f2f7416c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,8 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5fca53f2a93f7be",
+  "active": "627e91f2f7416c6d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Natural Language/English/Vocabulary/F/foregoing.md",
+    "Natural Language/English/Vocabulary/F/F.md",
+    "Natural Language/English/Vocabulary/F",
+    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Truth table.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives and Truth Tables.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
     "Natural Language/English/Vocabulary/A/abbreviate.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables.md",
@@ -175,7 +196,6 @@
     "Natural Language/English/Grammar/Grammer.md",
     "Natural Language/English/Vocabulary/A",
     "Natural Language/English/Vocabulary",
-    "Untitled.md",
     "Natural Language/English/Vocabulary",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables",
     "Computer Language/High-level Programming Language/C",
@@ -183,17 +203,12 @@
     "Computer Language/Markup Language",
     "Computer Language/High-level Programming Language",
     "Computer Language",
-    "Mathematics/Linear Algebra",
     "Markup language/Markdown/Introduction.md",
     "Markup language/Markdown/Markdown.md",
     "Markup language/Markdown/Syntax/Syntax.md",
     "Basic Connectives and $Truth Tables.md",
     "1 Basic Connectives and $Truth Tables.md",
     "1 Basic Connectives and $Truth Tables.,d.md",
-    "Fundamentals of Logic/1 Basic Connectives and Truth Tables.md",
-    "Markup Language/Markdown/Syntax.md",
-    "Markup Language/Markdown/Markdown.md",
-    "Markup Language/Markdown/Basic Example.md",
     "Untitled.canvas"
   ]
 }

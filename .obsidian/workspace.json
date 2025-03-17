@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/2025.03.17 阿彥的考題.md",
-                "mode": "source",
+                "file": "Others/阿彥の模擬考/2025.03.17.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025.03.17 阿彥的考題"
+              "title": "2025.03.17"
             }
           }
         ]
@@ -162,8 +162,9 @@
   },
   "active": "0f62effa4c80d0e5",
   "lastOpenFiles": [
+    "Others/阿彥の模擬考",
     "Table of Contents.md",
-    "Others/2025.03.17 阿彥的考題.md",
+    "Others/阿彥の模擬考/2025.03.17.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Truth table.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives and Truth Tables.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
@@ -197,7 +198,6 @@
     "Natural Language/English/Vocabulary/A",
     "Natural Language/English/Grammar",
     "Computer Language/Markdown/Markdown Others.md",
-    "Computer Language/Markdown/Markdown Home.md",
     "Untitled.canvas"
   ]
 }

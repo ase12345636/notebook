@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Language/English/Vocabulary/F/F.md",
+                "file": "Natural Language/English/Vocabulary/S/S.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "F"
+              "title": "S"
             }
           }
         ]
@@ -160,13 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e29ca95e54fcb2f",
+  "active": "e23c1233eed23d09",
   "lastOpenFiles": [
+    "Natural Language/English/Vocabulary/F/F.md",
     "Natural Language/English/Vocabulary/S/scratch.md",
     "Natural Language/English/Vocabulary/A/abbreviate.md",
     "Natural Language/English/Vocabulary/C/compound.md",
     "Natural Language/English/Vocabulary/F/foregoing.md",
-    "Natural Language/English/Vocabulary/F/F.md",
     "Natural Language/English/Vocabulary/S/S.md",
     "Natural Language/English/English.md",
     "Natural Language/English/Vocabulary/S",

@@ -1,3 +1,4 @@
+[Chapter 1 - Fundamental Principles of Counting](Fundamental%20Principles%20of%20Counting.md)
 [Chapter 2 - Fundamentals of Logic](Fundamentals%20of%20Logic)
 
 ##### Reference

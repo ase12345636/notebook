@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#CS  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5359795996225998,
+  "scale": 0.3823010968770025,
   "close": true
 }

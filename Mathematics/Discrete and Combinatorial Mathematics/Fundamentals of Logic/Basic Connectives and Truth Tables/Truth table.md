@@ -1,7 +1,7 @@
 In some sentence, having a variable value. Its truth value cannot be determined until a numberical value is assigned.
 	- e.g: The number $x$ is an integer.
 
-For [[foregoing]] discussion, we use turth table to list all of possible for [[compound]] statements.
+For foregoing discussion, we use turth table to list all of possible for compound statements.
 
 In all [[Basic Connectives]] turth table like:
 

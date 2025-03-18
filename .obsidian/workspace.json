@@ -11,10 +11,14 @@
             "id": "a5fca53f2a93f7be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 2/2-1/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 356.5
   },
   "right": {
     "id": "ea002221cd7efc99",
@@ -158,6 +162,13 @@
   },
   "active": "a5fca53f2a93f7be",
   "lastOpenFiles": [
+    "Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 2/2-1/1.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
+    "Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 2/2-1",
+    "Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 2",
+    "Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th",
+    "Exercise",
+    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamental Principles of Counting/The Rules of Sum and Product/The Rules of Sum and Product.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamental Principles of Counting/The Rules of Sum and Product/The Rule of Sum.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamental Principles of Counting/The Rules of Sum and Product/The Rule of Product.md",
@@ -165,7 +176,6 @@
     "Natural Language/English/Vocabulary/C/compound.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Statement.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives and Truth Tables.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
     "Natural Language/English/Vocabulary/A/abbreviate.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamental Principles of Counting/Fundamental Principles of Counting.md",
     "Table of Contents.md",
@@ -181,19 +191,13 @@
     "Natural Language/English/Vocabulary/C/C.md",
     "Natural Language/English/Vocabulary/A/A.md",
     "Natural Language/日本語/日本語.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
     "Others/阿彥の模擬考/2025.03.17.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Fundamentals of Logic.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamental Principles of Counting/The Rules of Sum and Product",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamental Principles of Counting/Untitled",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamental Principles of Counting",
     "Others/阿彥の模擬考",
     "Others",
     "Natural Language/English/Vocabulary/C",
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Logical Equivalence-The Laws of Logic",
-    "Natural Language/English/Vocabulary/F",
-    "Natural Language/English/Vocabulary/A",
-    "Natural Language/English/Vocabulary",
     "Untitled.canvas"
   ]
 }

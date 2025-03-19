@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcf8c8ed1f42d58f",
+        "id": "d8c0182fe178a8fe",
         "type": "tabs",
         "children": [
           {
-            "id": "e23c1233eed23d09",
+            "id": "3ec8d0e73eba95c4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -156,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e23c1233eed23d09",
+  "active": "3ec8d0e73eba95c4",
   "lastOpenFiles": [
+    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Truth table.md",
     "Natural Language/English/Vocabulary/Vocabulary.md",
     "Natural Language/English/Vocabulary/S/S.md",
     "Natural Language/English/Vocabulary/F/F.md",
@@ -188,7 +189,6 @@
     "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Statement.md",
     "Contents.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Truth table.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives and Truth Tables.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",

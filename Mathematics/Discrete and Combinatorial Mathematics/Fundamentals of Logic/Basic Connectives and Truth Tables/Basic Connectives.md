@@ -34,6 +34,7 @@
 		- $p$: Terry is a boy.
 		- $q$: Terry must be a soldier.
 		- $p \rightarrow q$: If Terry is a boy, then he must be a soldier.
+	For a compund statement, $(\neg u) \rightarrow s$ as opposed to $\neg (u \rightarrow s)$.
 6. $p \leftrightarrow q$(Biconditional): For a two statements, they are combined using biconditional. It is read as "$p$ if and only if $q$" or "$p$ is necessary and sufficient for $q$".
 	- e.g: 
 		- $p$: Terry is a boy.

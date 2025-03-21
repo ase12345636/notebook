@@ -1,4 +1,4 @@
 - verb.
-	to understand something completely
+	to understand something completely.
 
 #verb #English #Language 

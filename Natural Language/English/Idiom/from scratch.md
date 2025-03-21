@@ -1,3 +1,3 @@
-- without any previous preparation or knowledge
+- without any previous preparation or knowledge.
 
-#English #Language 
+ #English #Language 

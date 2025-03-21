@@ -1,3 +1,4 @@
 - [[pace]]
+- [[plural]]
 
 #English #Language 

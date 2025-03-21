@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 5 Relations and Functions/5/1.md",
+                "file": "Mathematics/Discrete and Combinatorial Mathematics/Relations and Functions/The Pigeonhole Principle.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "The Pigeonhole Principle"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 5 Relations and Functions/5/1.md",
+                "file": "Mathematics/Discrete and Combinatorial Mathematics/Relations and Functions/The Pigeonhole Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1"
+              "title": "Backlinks for The Pigeonhole Principle"
             }
           },
           {
@@ -161,21 +161,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ec8d0e73eba95c4",
+  "active": "9e29ca95e54fcb2f",
   "lastOpenFiles": [
     "Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 5 Relations and Functions/5/2.md",
     "Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 5 Relations and Functions/5/1.md",
+    "Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 5 Relations and Functions/5/3.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Relations and Functions/The Pigeonhole Principle.md",
+    "Natural Language/English/Vocabulary/P/P.md",
+    "Natural Language/English/Vocabulary/P/plural.md",
+    "Natural Language/English/Vocabulary/I/initial.md",
+    "Natural Language/English/Vocabulary/I/I.md",
+    "Natural Language/English/Vocabulary/L/L.md",
+    "Natural Language/English/Vocabulary/L/laundromat.md",
+    "Natural Language/English/Vocabulary/A/A.md",
+    "Natural Language/English/Vocabulary/A/auditorium.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Relations and Functions/Relations and Functions.md",
     "Natural Language/English/Vocabulary/M/M.md",
-    "Natural Language/English/Vocabulary/A/A.md",
     "Natural Language/English/Vocabulary/C/C.md",
     "Natural Language/English/Vocabulary/D/D.md",
     "Natural Language/English/Vocabulary/F/F.md",
     "Natural Language/English/Vocabulary/G/G.md",
-    "Natural Language/English/Vocabulary/I/I.md",
-    "Natural Language/English/Vocabulary/L/L.md",
-    "Natural Language/English/Vocabulary/P/P.md",
     "Natural Language/English/Vocabulary/R/R.md",
     "Natural Language/English/Vocabulary/S/S.md",
     "Natural Language/English/Vocabulary/Vocabulary.md",
@@ -184,11 +189,6 @@
     "Natural Language/English/Vocabulary/R/roost.md",
     "Natural Language/English/Vocabulary/P/pace.md",
     "Natural Language/English/Vocabulary/M/magnet.md",
-    "Natural Language/English/Vocabulary/M/magnetic.md",
-    "Natural Language/English/Vocabulary/L/laundromat.md",
-    "Natural Language/English/Vocabulary/I/itch.md",
-    "Natural Language/English/Vocabulary/I/illustrate.md",
-    "Natural Language/English/Vocabulary/G/grasp.md",
     "Natural Language/English/Vocabulary/L",
     "Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 5 Relations and Functions/5",
     "Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 5 Relations and Functions",

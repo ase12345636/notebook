@@ -11,10 +11,14 @@
             "id": "3ec8d0e73eba95c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Discrete and Combinatorial Mathematics/Relations and Functions/The Pigeonhole Principle.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Pigeonhole Principle"
             }
           }
         ]
@@ -156,8 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e29ca95e54fcb2f",
+  "active": "3ec8d0e73eba95c4",
   "lastOpenFiles": [
+    "Mathematics/Discrete and Combinatorial Mathematics/Relations and Functions/The Pigeonhole Principle.md",
+    "Natural Language/English/Vocabulary/Vocabulary.md",
+    "B.md",
+    "Natural Language/English/Vocabulary/D/D.md",
+    "Natural Language/English/Vocabulary/D/distinct.md",
+    "Natural Language/English/Vocabulary/D",
+    "Natural Language/English/Vocabulary/C/consecutive.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Relations and Functions/Relations and Functions.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
     "Natural Language/English/Idiom/from scratch.md",
     "Natural Language/English/Vocabulary/S/scratch.md",
     "Natural Language/English/Vocabulary/I/I.md",
@@ -166,7 +180,6 @@
     "Natural Language/English/Vocabulary/G/grasp.md",
     "Natural Language/English/Vocabulary/P/P.md",
     "Natural Language/English/Vocabulary/S/subtle.md",
-    "Natural Language/English/Vocabulary/Vocabulary.md",
     "Natural Language/English/Vocabulary/R/roost.md",
     "Natural Language/English/Vocabulary/P/pace.md",
     "Natural Language/English/Vocabulary/M/magnetic.md",
@@ -174,17 +187,9 @@
     "Natural Language/English/Vocabulary/F/foregoing.md",
     "Natural Language/English/Vocabulary/F/F.md",
     "Natural Language/English/Vocabulary/C/compound.md",
-    "Natural Language/English/Vocabulary/C/consecutive.md",
     "Natural Language/English/Vocabulary/C/C.md",
     "Natural Language/English/Vocabulary/A/abbreviate.md",
-    "Natural Language/English/Vocabulary/A/A.md",
-    "Natural Language/English/Idiom/Idiom.md",
-    "Natural Language/English/Grammar/Grammar.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Relations and Functions/The Pigeonhole Principle.md",
-    "Natural Language/English/Vocabulary/M/M.md",
     "Natural Language/English/Vocabulary/M",
-    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
-    "Natural Language/English/Vocabulary/S/S.md",
     "Natural Language/English/Vocabulary/I",
     "Natural Language/English/Vocabulary/R",
     "Natural Language/English/Vocabulary/P",
@@ -193,7 +198,6 @@
     "Natural Language/English/Vocabulary/S",
     "Natural Language/English/Idiom",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamental Principles of Counting/The Rules of Sum and Product",
-    "Mathematics/Discrete and Combinatorial Mathematics/Fundamental Principles of Counting",
     "Untitled.canvas"
   ]
 }

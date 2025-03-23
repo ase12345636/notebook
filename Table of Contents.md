@@ -3,7 +3,7 @@
 - [[Discrete and Combinatorial Mathematics]]
 - [[Linear Algebra]]
 ## Computer Science
-- 
+- [[Algorithm]]
 
 ## Computer Language
 **High-level Programming Language**

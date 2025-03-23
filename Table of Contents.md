@@ -1,6 +1,10 @@
 ## Mathematics
+- [[Calculus]]
 - [[Discrete and Combinatorial Mathematics]]
 - [[Linear Algebra]]
+## Computer Science
+- 
+
 ## Computer Language
 **High-level Programming Language**
 - [C](Computer%20Language/High-level%20Programming%20Language/C/C.md)

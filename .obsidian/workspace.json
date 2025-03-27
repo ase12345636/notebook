@@ -11,10 +11,14 @@
             "id": "bd765dec60083bbf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Others/阿彥のquiz/2025.03.27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025.03.27"
             }
           }
         ]
@@ -158,12 +162,15 @@
   },
   "active": "bd765dec60083bbf",
   "lastOpenFiles": [
+    "Others/阿彥のquiz/2025.03.17.md",
+    "Others/阿彥のquiz/2025.03.27.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Relations and Functions/The Pigeonhole Principle.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Relations and Functions/Relations and Functions.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
+    "Table of Contents.md",
     "Natural Language/English/Vocabulary/S/subtle.md",
     "subtle.md",
     "consecutive.md",
-    "Others/阿彥のquiz/2025.03.17.md",
-    "Others/阿彥のquiz/2025.03.27.md",
-    "Table of Contents.md",
     "Natural Language/English/Idiom/from scratch.md",
     "Natural Language/English/Vocabulary/S/scratch.md",
     "Natural Language/English/Vocabulary/Vocabulary.md",
@@ -187,10 +194,7 @@
     "Natural Language/English/Vocabulary/R",
     "Natural Language/English/Vocabulary/P/plural.md",
     "Natural Language/English/Vocabulary/P/pace.md",
-    "Natural Language/English/Vocabulary/P/P.md",
     "Natural Language/English/Vocabulary/P",
-    "Natural Language/English/Vocabulary/M/magnetic.md",
-    "Natural Language/English/Vocabulary/M/magnet.md",
     "Natural Language/English/Vocabulary/M",
     "Natural Language/English/Vocabulary/L",
     "Natural Language/English/Vocabulary/I",

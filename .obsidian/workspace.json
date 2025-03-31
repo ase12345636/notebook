@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d8c0182fe178a8fe",
+        "id": "34b476b569774666",
         "type": "tabs",
         "children": [
           {
-            "id": "3ec8d0e73eba95c4",
+            "id": "4bc5d71391e615df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Truth table.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Truth table"
-            }
-          },
-          {
-            "id": "8ed63ff8be3886cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Computer Science/Algorithm/Greedy algorithms/Minimum spanning trees/Minimum spanning trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Minimum spanning trees"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,15 +161,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ed63ff8be3886cd",
+  "active": "4bc5d71391e615df",
   "lastOpenFiles": [
+    "Computer Science/Algorithm/Greedy algorithms/Greedy algorithms.md",
+    "Computer Science/Algorithm/Greedy algorithms/Minimum spanning trees/Minimum spanning trees.md",
+    "Computer Science/Algorithm/Greedy algorithms/Minimum spanning trees",
+    "Computer Science/Algorithm/Greedy algorithms/Pasted image 20250331142716.png",
+    "Computer Science/Algorithm/Algorithm.md",
+    "Computer Science/Algorithm/Dynamic programming/Dynamic programming.md",
+    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
+    "Computer Science/Algorithm/Dynamic programming",
+    "Computer Science/Algorithm/Untitled.md",
+    "Computer Science/Algorithm/Greedy algorithms",
     "Untitled.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Truth table.md",
     "Natural Language/English/Vocabulary/G/guarantees.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives and Truth Tables.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Basic Connectives.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Fundamentals of Logic.md",
-    "Mathematics/Discrete and Combinatorial Mathematics/Discrete and Combinatorial Mathematics.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Logical Equivalence-The Laws of Logic/Logical Equivalence-The Laws of Logic.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamentals of Logic/Basic Connectives and Truth Tables/Statement.md",
     "Mathematics/Discrete and Combinatorial Mathematics/Fundamental Principles of Counting/The Rules of Sum and Product/The Rules of Sum and Product.md",
@@ -197,13 +191,8 @@
     "Natural Language/English/Grammar/Grammar.md",
     "Natural Language/日本語/日本語.md",
     "Mathematics/Linear Algebra/Linear Algebra.md",
-    "Computer Science/Algorithm/Algorithm.md",
     "Mathematics/Calculus/Calculus.md",
     "Mathematics/Calculus/Functions and Limits/Functions and Limits.md",
-    "Natural Language/English/English.md",
-    "Natural Language/English/Vocabulary/Vocabulary.md",
-    "Others/阿彥のquiz/2025.03.17.md",
-    "Others/阿彥のquiz/2025.03.27.md",
     "Computer Science/Algorithm",
     "Computer Science",
     "Mathematics/Calculus/Functions and Limits",
@@ -211,9 +200,6 @@
     "Natural Language/English/Vocabulary/L",
     "Others/Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 5 Relations and Functions/5",
     "Others/Exercise/Discrete and Combinatorial Mathematics-An Applied Introduction 5th/Chapter 5 Relations and Functions",
-    "Natural Language/English/Vocabulary/D",
-    "Natural Language/English/Vocabulary/M",
-    "Natural Language/English/Vocabulary/I",
     "Untitled.canvas"
   ]
 }

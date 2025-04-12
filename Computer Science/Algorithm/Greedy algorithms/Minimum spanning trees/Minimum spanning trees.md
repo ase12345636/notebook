@@ -1,4 +1,4 @@
-For a **undirected** graph, we want to find the cheapest cost of two nodes path cost. We can used **minimum spanning tree(MST)** to do it. 
+For a **undirected** graph, we want to find the cheapest cost of two nodes path cost. We can used **minimum spanning tree(MST)** to do it.    01
 
 - e.g: Below undirected graph:
 ```tikz
